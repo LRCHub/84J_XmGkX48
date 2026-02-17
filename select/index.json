@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Papercut",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-17T17:16:29.233111Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Papercut",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Papercut_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Papercut - Live",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Papercut_-_Live_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Papercut (Live)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Papercut_(Live)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Papercut",
+      "artist": "Zedd feat. Troye Sivan",
+      "has_synced": true,
+      "path": "select/04_Papercut_Zedd_feat._Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Papercut (feat. Troye Sivan)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/05_Papercut_(feat._Troye_Sivan)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big Pimpin' / Papercut",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/06_Big_Pimpin'___Papercut_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Papercut",
+      "artist": "Big Pimpin'",
+      "has_synced": true,
+      "path": "select/07_Papercut_Big_Pimpin'.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Papercut",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Papercut_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Papercut",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Papercut_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Papercut",
+      "artist": "Hybrid Theory",
+      "has_synced": true,
+      "path": "select/10_Papercut_Hybrid_Theory.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Papercut - Live from Paris, 2010",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/11_Papercut_-_Live_from_Paris,_2010_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Papercut (Live at Docklands Arena, London) [B-Side Rarities]",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/12_Papercut_(Live_at_Docklands_Arena,_London)_[B-Side_Rarities]_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Papercut (Live at Docklands Arena, London)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Papercut_(Live_at_Docklands_Arena,_London)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Papercut (Live)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Papercut_(Live)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Papercut [Live At Docklands Arena, London]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Papercut_[Live_At_Docklands_Arena,_London]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Papercut (Live from the BBC) [B-Side Rarities]",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/16_Papercut_(Live_from_the_BBC)_[B-Side_Rarities]_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Papercut [Live From The BBC]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/17_Papercut_[Live_From_The_BBC]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Papercut [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/18_Papercut_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "papercut",
+      "artist": "Liana Flores",
+      "has_synced": true,
+      "path": "select/19_papercut_Liana_Flores.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Papercut",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/pl_01_Papercut_LINKIN_PARK.txt"
+    }
+  ]
+}
